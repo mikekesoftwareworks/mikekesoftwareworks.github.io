@@ -1,5 +1,7 @@
 こちらは僕の作品ページ・自由研究ページです。
 #
+mikekesoftwareworks.github.io
+#
 基本は
 http://git.io/v3PbY
 でぼちぼちやってます。
