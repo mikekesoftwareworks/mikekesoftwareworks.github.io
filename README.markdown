@@ -1,6 +1,6 @@
 こちらは僕の作品ページ・自由研究ページです。
 #
-http://mikekesoftwareworks.github.io/index.HTML
+http://mikekesoftwareworks.github.io
 #
 基本は
 http://git.io/v3PbY
